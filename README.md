@@ -1,4 +1,8 @@
 # aaljeha1.github.io
-# Hi my name is Abdullah Aljehani, i am currently doing full stack program at CPCC.
-# This semster i am taking web115.
+# Hi my name is Abdullah, i am currently working on my skills and working on somthing cool :).
+# Learning sources are:
+              - [ CPCC ](https://www.cpcc.edu/about-central-piedmont/administrative-offices/information-technology-services)
+              -[ FreeCodeCamp](https://freecodecamp.org/)
+              - [codecademy](https://www.codecademy.com/)
+              
  
